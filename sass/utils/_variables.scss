@@ -1,0 +1,41 @@
+// Загальні перемінні
+$text-color: #212121;
+$hover-color: #2196f3;
+$second-color: #757575;
+$background-color: #2f303a;
+$wait: #ffffff;
+$buttom-color: #f5f4fa;
+$icon-color: #afb1b8;
+$border-color: #eeeeee;
+
+// Шаблони для всього документу place-holder
+ul {
+  padding: 0;
+  margin: 0px;
+  list-style-type: none;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Roboto";
+  color: var(--text-color);
+}
+
+.container {
+  max-width: 1200px;
+  padding: 0 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section {
+  padding-top: 94px;
+  padding-bottom: 94px;
+}

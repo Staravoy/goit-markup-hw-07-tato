@@ -1,0 +1,24 @@
+// підключення перемінних та шаблонів до всього проекту
+@import "./utils/variables";
+// хідер
+@import "./components/header";
+// BANER SECTION
+@import "./components/baner";
+//SKILLS SECTION
+@import "./components/skills";
+// WHAT WE DO SECTION
+@import "./components/what-we-do";
+//WE SECTION
+@import "./components/we-section";
+//CLINT
+@import "./components/client";
+//FOOTER
+@import "./components/footer";
+//MODAL
+@import "./components/modal";
+
+//СТОРІНКА ПОРТФОЛІО
+//BUTTON SECTION
+@import "./components/button-section";
+//EXEMPL SECTION
+@import "./components/exempl";
